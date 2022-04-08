@@ -1,4 +1,4 @@
-# differences
+# Math Findings
 has four different functions.
 1. Evaluates a mathematical equation
 2. Evaluates a piecewise function
